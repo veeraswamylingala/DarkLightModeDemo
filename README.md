@@ -1,3 +1,3 @@
 # darklightmodechanger
 
-![Netflix-Clone](images/themeChanger.mp4)
+![darklightmodechanger](images/themeChanger.mp4)
